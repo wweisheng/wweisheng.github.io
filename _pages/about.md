@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[2024动力系统](E:\xmu)
+[21Wu2021_Article_LocalPressureOfSubsetsAndMeasu](E:\xmu)
 教育经历：
 1. 2008/08-2014/08：Pennsylvania State University 数学系，理学博士
 
