@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[21Wu2021_Article_LocalPressureOfSubsetsAndMeasu](E:\xmu)
+[21Wu2021_Article_LocalPressureOfSubsetsAndMeasu](E:\xmu\21Wu2021_Article_LocalPressureOfSubsetsAndMeasu.pdf)
 教育经历：
 1. 2008/08-2014/08：Pennsylvania State University 数学系，理学博士
 
