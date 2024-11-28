@@ -6,46 +6,124 @@ redirect_from:
   - /about/
   - /about.html
 ---
-2008/08-2014/08：Pennsylvania State University 数学系，理学博士
 
-2. 2004/09-2008/07: 中国科学技术大学数学系，理学学士（https://math.xmu.edu.cn/info/1081/11192.htm）
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+教育经历：
+1. 2008/08-2014/08：Pennsylvania State University 数学系，理学博士
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2. 2004/09-2008/07: 中国科学技术大学数学系，理学学士
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+工作经历：
+1．2021/05- [厦门大学](https://math.xmu.edu.cn/info/1081/11192.htm)，教授
+  [Academic Pages template](https://github.com/academicpages/academicpages.github.io) 
+2．2016/09-2021/04，中国农业大学，讲师，副教授
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+3．2014/10-2016/09，北京大学，博士后
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+研究方向：
+研究方向为动力系统和遍历论。感兴趣的课题包括部分双曲动力系统，黎曼和芬斯勒几何中的测地流，齐性动力系统与丢番图逼近，动力系统中的维数理论等。
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+学术专著: 
+刘飞, 王方, 吴伟胜，测地流的动力学，38万字，2019年11月，科学出版社.
 
-**Markdown generator**
+社会兼职：
+美国《数学评论》(Mathematical Reviews) 评论员、德国《数学文摘》(Zentralblatt MATH) 评论员
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+授课情况：
+讲授过的本科生课程有《实变函数》、《数学分析I》、《高等数学》、《离散数学》、《测度与积分》等，研究生课程有《遍历论》、《动力系统基础》。
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
+
+主持项目:
+1. 2023年, 国家高层次青年人才
+
+2. 2022-2027年，国家重点研发计划青年科学家项目: 部分双曲系统复杂性问题的研究, 项目负责人
+
+3. 2021-2024年, 国家自然科学基金面上项目: 几类微分动力系统的Kolmogorov-Bernoulli等价性问题, 主持
+
+4. 2018-2020年, 国家自然科学基金青年科学基金项目: 部分双曲动力系统的非稠密轨道和中间熵, 主持
+
+5. 2016-2019年, 国家自然科学基金面上项目: 正熵动力系统的不变集、测度和复杂性, 参与
+
+6. 2015-2016年, 中国博士后科学基金第八批特别资助: 偏双曲动力系统非稠密轨道的Hausdorff维数及相关问题, 主持
+
+7. 2013年10月, Pritchard Dissertation Fellowship (优秀博士论文奖), Pennsylvania State University
+
+论文：
+32. Huyi Hu and Weisheng Wu, Unstable entropies along invariant laminations, Journal d'Analyse Mathematique, Accepted.
+
+31. Weisheng Wu, Volume asymptotics, Margulis function and rigidity beyond nonpositive curvature, Mathematische Annalen, Published Online,
+
+DOI: https://doi.org/10.1007/s00208-023-02710-x
+
+30. Xueting Tian and Weisheng Wu, Unstable pressure and thermodynamic formalism in partially hyperbolic systems, Journal of Dynamics and Differential Equations, Published Online,DOI: https://doi.org/10.1007/s10884-023-10282-2
+
+29. Weisheng Wu, Fei Liu and Fang Wang, On the ergodicity of geodesic flows on surfaces without focal points, Ergodic Theory and Dynamical Systems, Published Online,DOI: https://doi.org/10.1017/etds.2022.114
+
+28. Weisheng Wu, On relative metric mean dimension with potential and variational principles, Journal of Dynamics and Differential Equations, 35 (2023), no. 3, 2313-2335.
+
+27. Xiaochen Li and Weisheng Wu, Bernoulli property of equilibrium states for certain partially hyperbolic diffeomorphisms, Journal of Dynamics and Differential Equations, 35 (2023), no. 2, 1843-1862.
+
+26. Dandan Cheng, Zhiming Li and Weisheng Wu, Preimage Entropy and Stable Entropy on Subsets, Journal of Statistical Physics, 190 (2023), no.4, Paper No.72.
+
+25. Xinsheng Wang, Weisheng Wu and Yujun Zhu, On Entropy and Pressure via Preimage Structure for Random Dynamical Systems, Journal of Differential Equations, 346 (2023), 1-63.
+
+24. Weisheng Wu and Yujun Zhu, Entropy via Preimage Structure, Advances in Mathematics, 406 (2022), 108483.
+
+23. Weisheng Wu, On the continuity of topological entropy of certain partially hyperbolic diffeomorphisms, Nonlinearity, 35 (2022): 2695-2721.
+
+22. Xinsheng Wang, Weisheng Wu and Yujun Zhu, Local entropy via preimage structure, Journal of Differential Equations, 317 (2022) 639-684.
+
+21. Xueting Tian and Weisheng Wu, Unstable entropies and dimension theory of partially hyperbolic systems, Nonlinearity, 35 (2022) 658-680.
+
+20. Weisheng Wu, Local pressure of subsets and measures, Journal of Statistical Physics, 185 (2021), no. 2, Paper No. 9.
+
+19. Huyi Hu, Weisheng Wu and Yujun Zhu, Unstable pressure and u-equilibrium states for partially hyperbolic diffeomorphisms, Ergodic Theory and Dynamical Systems, 41 (2021), no. 11, 3336-3362.
+
+18. Xinsheng Wang, Weisheng Wu and Yujun Zhu, Unstable entropy and unstable pressure for random partially hyperbolic diffeomorphisms, Stochastics and Dynamics, 21 (2021), no. 5, Paper No. 2150021, 31 pp.
+
+17. Weisheng Wu and Yujun Zhu, On Preimage Entropy, Folding Entropy and Stable entropy, Ergodic Theory and Dynamical Systems, 41, no. 4, (2021), 1217–1249.
+
+16. Zhiming Li, Weisheng Wu and Yujun Zhu, Preimage Pressure, Stable Pressure and Equilibrium States, Journal of Differential Equations, 269, no. 7, (2020), 6311-6342.
+
+15. Xinsheng Wang, Weisheng Wu and Yujun Zhu, Unstable Entropy and Unstable Pressure for Partially Hyperbolic Endomorphisms, Journal of Mathematical Analysis and Applications, 486 (2020), no. 1, 123885.
+
+14. Fei Liu, Fang Wang and Weisheng Wu, On the Patterson-Sullivan measure for geodesic flows on rank 1 manifolds without focal points, Discrete and Continuous Dynamical Systems. Series A. 40, no.3 (2020), 1517-1554.
+
+13. Xinsheng Wang, Weisheng Wu and Yujun Zhu, Local unstable entropy and local unstable pressure for random partially hyperbolic diffeomorphisms, Discrete and Continuous Dynamical Systems. Series A. 40, no.1 (2020), 81-105.
+
+12. Weisheng Wu, Local unstable entropy of partially hyperbolic diffeomorphisms, Ergodic Theory and Dynamical Systems, 40, no. 8, (2020), 2274–2304.
+
+11. Weisheng Wu, Higher rank rigidity for Berwald spaces, Ergodic Theory and Dynamical Systems, 40, no. 7, (2020), 1991-2016.
+
+10. Fei Liu, Fang Wang and Weisheng Wu, The topological entropy for autonomous Lagrangian systems on compact manifolds whose fundamental groups have exponential growth, Science China Mathematics, 63, no. 7, (2020), 1323-1338
+
+9. Weisheng Wu, Simultaneous dense and non-dense orbits for certain partially hyperbolic diffeomorphisms, Ergodic Theory and Dynamical Systems, 40, no.4, (2020), 1083-1107.
+
+8. Weisheng Wu, Topological entropy of non-dense orbits and generalized Schmidt games, Ergodic Theory and Dynamical Systems, 39, no. 2, (2019), 500-530.
+
+7. Weisheng Wu, On non-dense orbits of certain non-algebraic dynamical systems, Journal of Dynamics and Differential Equations, 2018, 30(2): 501–519.
+
+6. Lifan Guan and Weisheng Wu, Bounded orbits of certain diagonalizable flows on SL_n(R)/SL_n(Z), Transactions of the American Mathematical Society, 2018, 370(7): 4661-4681.
+
+5. Huyi Hu, Yongxia Hua and Weisheng Wu, Unstable entropies and variational principle for partially hyperbolic diffeomorphisms, Advances in Mathematics, 321, (2017), 31-68.
+
+4.Lifan Guan, Peng Sun and Weisheng Wu, Measures of intermediate entropies and homogeneous dynamics, Nonlinearity, 30, (2017), 3349-3361
+
+3.Weisheng Wu, Modified Schmidt games and non-dense forward orbits of partially hyperbolic systems, Discrete and Continuous Dynamical Systems. Series A. 36, no. 6 (2016), 3463-3481
+
+2.Weisheng Wu, Schmidt games and non-dense forward orbits of certain partially hyperbolic systems, Ergodic Theory and Dynamical Systems, 36, no. 5, (2016), 1656-1678
+
+1. Weisheng Wu, On the ergodicity of geodesic flows on surfaces of nonpositive curvature, Annales de la Faculte des Sciences de Toulouse. Mathematiques. Serie 6, 24, no. 3 (2015), 625-639.
+
+人才培养
+博士后：杨依妮
+
+在读博士生：肖建荣，王昌林
+
+硕士生：王明涵，张希晨（2020-2023，深圳）， 李晓琛（2019-2022，北京）
+
+
+
+欢迎优秀的青年学者来做博士后！
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
