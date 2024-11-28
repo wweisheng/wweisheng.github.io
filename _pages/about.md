@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+[2024动力系统](E:\xmu)
 教育经历：
 1. 2008/08-2014/08：Pennsylvania State University 数学系，理学博士
 
@@ -14,7 +14,6 @@ redirect_from:
 
 工作经历：
 1．2021/05- [厦门大学](https://math.xmu.edu.cn/info/1081/11192.htm)，教授
-  [Academic Pages template](https://github.com/academicpages/academicpages.github.io) 
 2．2016/09-2021/04，中国农业大学，讲师，副教授
 
 3．2014/10-2016/09，北京大学，博士后
